@@ -1,7 +1,7 @@
-- 👋 Hi, I’m helena
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and C.
+- 👋 Hi, I’m helena. I code things to make life easier.
+- 🌱 I’m currently learning Java, JavaScript, and Python.
 - 📫 Feel free to connect with me through helenagarcia946@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: My most useless skill is to roll the best burritos ever! And I play football!
 - 
 
