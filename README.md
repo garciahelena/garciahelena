@@ -12,7 +12,7 @@
 
 ## 🚀 Featured Projects
 
-- **[temperature-log-compliance-checker](https://github.com/garciahelena/temperature-log-compliance-checker)**: web tool that validates food-safety temperature logs against regulations, cutting a ~20 min check to ~3 min
+- **[Boojum-Compliance-Trail-Checker](https://github.com/garciahelena/Boojum-Compliance-Trail-Checker)**: web tool that validates food-safety temperature logs against regulations, cutting a ~20 min check to ~3-5 min
 - **[weekly-reports-automation](https://github.com/garciahelena/weekly-reports-automation)**: automates weekly Excel reporting (PowerShell + Python)
 - **[AnimeHaven](https://github.com/garciahelena/AnimeHaven_by_LosAmigos)**: 3-person team website, 190+ commits
 - **[ToDoList](https://github.com/garciahelena/ToDoList)**: task tracker (HTML/CSS/JS) I built to manage CS++ Society committee work; next up is a shared view for the whole committee
