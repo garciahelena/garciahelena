@@ -21,7 +21,7 @@
 
 ## 🤝 Teamwork & Leadership
 
-- **Chairperson, CS++ Society**: leading a 10-member committee; our events reach 400+ members
+- **Chairperson, CS++ Society**: leading a 16-member committee; our events reach 400+ members
 - **Assistant Manager, Boojum**: 4+ years at the company, including leading a team of 20
 - **Volunteering:** TU Dublin President's Volunteering Gold, Maths 4 Her (Huawei)
 
