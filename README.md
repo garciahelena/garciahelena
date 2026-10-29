@@ -7,7 +7,8 @@
 <p align="center">
   Second-year <b>Computer Science & German</b> student at <b>TU Dublin</b>, based in Dublin, Ireland.<br>
   I chair the <b>CS++ Society</b>, and I like building tools that automate tedious work.<br>
-  Currently sharpening my object-oriented programming in Java and C.
+  Sharpening OOP in Java and my systems fundamentals in C.
+  Looking for a software/IT internship.
 </p>
 
 ## 🚀 Featured Projects
